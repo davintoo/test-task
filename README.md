@@ -1,9 +1,9 @@
 # Junior test task
 
 ## Backend
-Write a REST FULL service on node.js koa which will process GET, POST, PUT, DELETE requests.
+Write a REST FULL service on **NodeJs** **Koa** which will process GET, POST, PUT, DELETE requests.
 
-MySQL has a table of reports:
+**MySQL** has a table of reports:
 ```
 CREATE TABLE `error_reports` (
     `id` INT (10) UNSIGNED NOT NULL AUTO_INCREMENT,
@@ -35,7 +35,7 @@ The data return format is JSON
 
 ## Frontend
 
-Write on Angular (v7-v8) a simple application that will show a list of reports, each report can be edited, deleted. Above list - button for add a new report. The frontend must use the REST service.
+Write on **Angular** (v7-v8) a simple application that will show a list of reports, each report can be edited, deleted. Above list - button for add a new report. The frontend must use the REST service.
 
 ## Optional (like a bonus)
 Push code to GitHub + deploy to Heroku and send link
