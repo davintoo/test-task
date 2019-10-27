@@ -29,9 +29,7 @@ Need to:
 - PUT - updates an existing record in reports
 - DELETE - deletes the record from reports
 
-The data return format is JSON
-
-3) Add basic validation (all required fields are required)
+3) Add basic validation (all fields are required)
 
 ## Frontend
 
